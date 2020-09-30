@@ -1,0 +1,3 @@
+interface ProcesosDocente {
+    void calificar();
+}

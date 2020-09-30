@@ -1,0 +1,3 @@
+interface ProcesosEstudiantes {
+    void enviarTarea();
+}
